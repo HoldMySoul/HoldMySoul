@@ -20,7 +20,7 @@ Student by day and android developer by night :)
 ### Kernel
 - [Pruh Kernel](https://github.com/HoldMySoul/Pruh_Kernel) 
 
-# wanna know me more?
+# Contact me on -
 - [Telegram](https://t.me/martinvalentine)
 
 ### Spying?
